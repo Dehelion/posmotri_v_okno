@@ -56,6 +56,7 @@ ol {
 }
 
 .result__video-container {
+	position: relative;
 	inline-size: 711px;
 	block-size: 386px;
 }
@@ -209,6 +210,7 @@ ol {
 }
 
 .content__list {
+	position: relative;
 	overflow: auto;
 	block-size: 300px;
 }
